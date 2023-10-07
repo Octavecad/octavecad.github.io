@@ -1,8 +1,8 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Jon Bertoldo!"
 meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+description: "whoami"
+image: "/images/avatar1.png"
 draft: false
 ---
 
